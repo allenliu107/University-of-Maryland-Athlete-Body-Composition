@@ -29,4 +29,5 @@ View changes in individual athlete body metrics from last scan grouped by positi
 ![Screenshot 2025-03-23 at 6 46 21 PM](https://github.com/user-attachments/assets/7b8c5575-9458-4b11-84eb-1c921e371a25)
 ## Team Report
 View changes in team averages grouped by position and team KPIS
-![Screenshot 2025-03-23 at 6 49 03 PM](https://github.com/user-attachments/assets/fe58aabd-6fb5-4991-8963-8009cd975ff6)
+![Screenshot 2025-03-23 at 7 03 05 PM](https://github.com/user-attachments/assets/aab4321e-b9f4-43d7-a134-5fa4927c5f83)
+
