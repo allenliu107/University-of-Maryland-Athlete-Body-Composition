@@ -2,11 +2,10 @@
 ## An interactive Power BI dashboard used by coaches from the University of Maryland to track athlete body composition over time.
 Tools Used: Microsoft Fabric (Power BI, Azure Data Factory, Apache Spark)
 
-The University of Maryland has 20 Division 1 teams which encompasses over 550 student athletes. To maximize the competitivenes of teams, coaches use tools including body composition scans in order to help enhance athlete performance and health. As an analyst I was tasked to extract insights by building tools and visualisations that coaches can use to improve decisions made on individual athletes as well as on team level.
+The University of Maryland has 20 Division 1 teams which encompasses over 550 student athletes. To maximize the competitivenes of all teams, coaches use tools such as body composition scans in order to help enhance athlete performance and health. As an analyst I was tasked to build tools and visualisations that can provide coaches the insights they need to elevate their teams.
 
-The scope of this project encompassed a general Power BI dashboard for all teams as well as a specific report for the football team and their 2024 Season. 
+The scope of this project encompassed a general Power BI dashboard for all teams as well as a specific report for the football team. 
 # Data Collection and Processing
-
 Athletes were scanned using a Dual-energy absorptiometry also known as DEXA which provided information on body composition, bone mineral density, fat distribution, and total body weight. 
 
 Afterwards a data pipeline using the DEXA API transferred and stored the data into Azure Blob Storage. After Blob all data and reporting utilized Microsoft’s Fabric service which is an all-in-one cloud data analytics platform that combined their existing technologies such as OneLake, Azure Data Factory, and Power BI Reporting. 
