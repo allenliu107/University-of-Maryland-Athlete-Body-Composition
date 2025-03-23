@@ -16,6 +16,7 @@ First, a pipeline from the Data Factory was used to copy new blob data into a La
 
 # Data Modeling
 The data follows a snowflake schema with “Measures(2)” as the fact table that contains every record of an athlete body scan as well as any DAX measures. The “Date” and “Athletes” table are dimensions with “Athletes” having a sub-dimension called “Profiles" that contains the position of each athlete.
+![Screenshot 2025-03-23 at 7 00 06 PM](https://github.com/user-attachments/assets/0ea618ee-5251-4d28-b88f-8f1aa75a7b20)
 
 # Data Visuals and Analytics
 
