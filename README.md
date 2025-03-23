@@ -18,16 +18,46 @@ The data follows a snowflake schema with “Measures(2)” as the fact table tha
 ![Screenshot 2025-03-23 at 7 01 25 PM](https://github.com/user-attachments/assets/6f81f406-99f5-4f95-a10f-f4b86cd2c65f)
 # Data Visuals and Analytics
 
-# Date to Date Comparison (1)
+1. Body Fat Percentage Trends
+Tracking changes in body fat percentage (BF%) over time to assess conditioning progress.
+
+2. Lean Mass Development
+Analyzing lean mass changes across different body regions (arms, legs, trunk) to evaluate strength gains.
+
+3. Position Group Body Composition
+Comparing muscle mass and fat distribution among different position groups to identify trends.
+
+4. Bone Mineral Density (BMD) Insights
+Examining BMD changes over time to monitor bone health and injury risk.
+
+5. Fat Mass Distribution
+Investigating visceral vs. subcutaneous fat levels and their impact on performance.
+
+6. Symmetry & Imbalances
+Identifying arm and leg muscle imbalances that may affect performance and injury risk.
+
+7. Weight Fluctuations & Performance
+Assessing how weight changes correlate with performance improvements or declines.
+
+8. Seasonal Body Composition Patterns
+Analyzing whether body composition shifts occur based on training phases or competition season.
+
+9. Team-Level Composition Changes
+Measuring team-wide trends in body fat, lean mass, and weight to guide training programs.
+
+10. Conditional Flags for Athlete Monitoring
+Implementing automated alerts based on critical thresholds in body composition data.
+
+## Date to Date Comparison (1)
 Compare the average metrics for each position group across two different dates.
 ![Screenshot 2025-03-23 at 6 27 35 PM](https://github.com/user-attachments/assets/e2c3da3b-144e-4368-b97f-619cadd736e2)
-# Date to Date Comparison (2)
+## Date to Date Comparison (2)
 Compare the rosters across the two dates.
 ![Screenshot 2025-03-23 at 6 39 35 PM](https://github.com/user-attachments/assets/5dc393b3-f85f-4ba2-93d4-f32967c60723)
-# Individual Change
+## Individual Change
 View changes in individual athlete body metrics from last scan grouped by position
 ![Screenshot 2025-03-23 at 6 46 21 PM](https://github.com/user-attachments/assets/7b8c5575-9458-4b11-84eb-1c921e371a25)
-# Team Report
+## Team Report
 View changes in team averages grouped by position and team KPIS
 ![Screenshot 2025-03-23 at 7 03 05 PM](https://github.com/user-attachments/assets/aab4321e-b9f4-43d7-a134-5fa4927c5f83)
 
