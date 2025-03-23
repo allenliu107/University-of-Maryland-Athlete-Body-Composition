@@ -27,7 +27,8 @@ Compare the average metrics for each position group across two different dates.
 
 ###  Date to Date Comparison (2)
 Compare the rosters across the two dates.
-![Screenshot 2025-03-23 at 6 27 35 PM](https://github.com/user-attachments/assets/926a5d47-dbf0-4774-8274-b81af9c66f7d)
+![Screenshot 2025-03-23 at 6 39 35 PM](https://github.com/user-attachments/assets/5dc393b3-f85f-4ba2-93d4-f32967c60723)
+
 
 ### Individual Change
 View changes in individual athlete body metrics from last scan grouped by position
