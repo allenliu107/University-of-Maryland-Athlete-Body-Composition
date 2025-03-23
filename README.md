@@ -6,7 +6,7 @@ Tools Used: Microsoft Fabric (Power BI, Azure Data Factory, Apache Spark)
 
 The University of Maryland has 20 Division 1 teams which encompasses over 550 student athletes. To maximize the competitivenes of teams, coaches use tools including body composition scans in order to help enhance athlete performance and health. As an analyst I was tasked to extract insights by building tools and visualisations that coaches can use to improve decisions made on individual athletes as well as on team level.
 
-The scope of this project encompassed a general Power BI dashboard for all teams as well as a specific report for specifically the football team adn their 2024 Season. 
+The scope of this project encompassed a general Power BI dashboard for all teams as well as a specific report for the football team and their 2024 Season. 
 
 # Data Collection and Processing
 
@@ -21,4 +21,18 @@ The data follows a snowflake schema with “Measures(2)” as the fact table tha
 
 # Data Visuals
 
-## 
+### Date to Date Comparison (1)
+Compare the average metrics for each position group across two different dates.
+![Screenshot 2025-03-23 at 6 27 35 PM](https://github.com/user-attachments/assets/e2c3da3b-144e-4368-b97f-619cadd736e2)
+
+###  Date to Date Comparison (2)
+Compare the rosters across the two dates.
+![Screenshot 2025-03-23 at 6 27 35 PM](https://github.com/user-attachments/assets/926a5d47-dbf0-4774-8274-b81af9c66f7d)
+
+### Individual Change
+View changes in individual athlete body metrics from last scan grouped by position
+![Screenshot 2025-03-23 at 6 46 21 PM](https://github.com/user-attachments/assets/7b8c5575-9458-4b11-84eb-1c921e371a25)
+
+### Team Report
+View changes in team averages grouped by position and team KPIS
+![Screenshot 2025-03-23 at 6 49 03 PM](https://github.com/user-attachments/assets/fe58aabd-6fb5-4991-8963-8009cd975ff6)
