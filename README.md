@@ -1,5 +1,4 @@
 # University-of-Maryland-Athlete-Body-Composition
-
 ## An interactive Power BI dashboard used by coaches from the University of Maryland to track athlete body composition over time.
 Tools Used: Microsoft Fabric (Power BI, Azure Data Factory, Apache Spark)
 
