@@ -18,34 +18,34 @@ The data follows a snowflake schema with “Measures(2)” as the fact table tha
 ![Screenshot 2025-03-23 at 7 01 25 PM](https://github.com/user-attachments/assets/6f81f406-99f5-4f95-a10f-f4b86cd2c65f)
 # Data Visuals and Analytics
 
-1. Body Fat Percentage Trends
+**1. Body Fat Percentage Trends:**
 Tracking changes in body fat percentage (BF%) over time to assess conditioning progress.
 
-2. Lean Mass Development
+**2. Lean Mass Development:**
 Analyzing lean mass changes across different body regions (arms, legs, trunk) to evaluate strength gains.
 
-3. Position Group Body Composition
+**3. Position Group Body Composition:**
 Comparing muscle mass and fat distribution among different position groups to identify trends.
 
-4. Bone Mineral Density (BMD) Insights
+**4. Bone Mineral Density (BMD) Insights:**
 Examining BMD changes over time to monitor bone health and injury risk.
 
-5. Fat Mass Distribution
+**5. Fat Mass Distribution:**
 Investigating visceral vs. subcutaneous fat levels and their impact on performance.
 
-6. Symmetry & Imbalances
+**6. Symmetry & Imbalances:**
 Identifying arm and leg muscle imbalances that may affect performance and injury risk.
 
-7. Weight Fluctuations & Performance
+**7. Weight Fluctuations & Performance:**
 Assessing how weight changes correlate with performance improvements or declines.
 
-8. Seasonal Body Composition Patterns
+**8. Seasonal Body Composition Patterns:**
 Analyzing whether body composition shifts occur based on training phases or competition season.
 
-9. Team-Level Composition Changes
+**9. Team-Level Composition Changes:**
 Measuring team-wide trends in body fat, lean mass, and weight to guide training programs.
 
-10. Conditional Flags for Athlete Monitoring
+**10. Conditional Flags for Athlete Monitoring:**
 Implementing automated alerts based on critical thresholds in body composition data.
 
 ## Date to Date Comparison (1)
