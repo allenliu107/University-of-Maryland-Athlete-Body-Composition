@@ -55,9 +55,9 @@ Compare the average metrics for each position group across two different dates.
 Compare the rosters across the two dates.
 ![Screenshot 2025-03-23 at 6 39 35 PM](https://github.com/user-attachments/assets/5dc393b3-f85f-4ba2-93d4-f32967c60723)
 ## Individual Change
-View changes in individual athlete body metrics from last scan grouped by position
+View changes in individual athlete body metrics from last scan grouped by position.
 ![Screenshot 2025-03-23 at 6 46 21 PM](https://github.com/user-attachments/assets/7b8c5575-9458-4b11-84eb-1c921e371a25)
 ## Team Report
-View changes in team averages grouped by position and team KPIS
+View changes in team averages grouped by position as well as KPIs when evaluating team.
 ![Screenshot 2025-03-23 at 7 03 05 PM](https://github.com/user-attachments/assets/aab4321e-b9f4-43d7-a134-5fa4927c5f83)
 
