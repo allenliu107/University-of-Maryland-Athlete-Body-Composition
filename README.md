@@ -17,6 +17,7 @@ The data model follows a snowflake schema, with 'Measures(2)' serving as the fac
 
 # Analytics and DAX Calculations
 [Link To All Dax Formulas](https://github.com/allenliu107/University-of-Maryland-Athlete-Body-Composition/blob/main/Football%20Dexa%20-%20Measures%20.pdf)
+
 **1. Body Fat Percentage Trends:**
 Tracking changes in body fat percentage (BF%) over time to assess conditioning progress.
 
