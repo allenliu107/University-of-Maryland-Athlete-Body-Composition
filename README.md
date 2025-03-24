@@ -51,15 +51,15 @@ Implementing automated alerts based on critical thresholds in body composition d
 # Data Visualizations
 [Link To Report](https://github.com/allenliu107/University-of-Maryland-Athlete-Body-Composition/blob/main/FootballDEXA_Dec18%201.pdf)
 ## Date to Date Comparison (1)
-Compare the average metrics for each position group across two different dates.
+Metrics for each position group across two different dates.
 ![Screenshot 2025-03-23 at 6 27 35 PM](https://github.com/user-attachments/assets/e2c3da3b-144e-4368-b97f-619cadd736e2)
 ## Date to Date Comparison (2)
-Compare the rosters across the two dates.
+Rosters across the two dates.
 ![Screenshot 2025-03-23 at 6 39 35 PM](https://github.com/user-attachments/assets/5dc393b3-f85f-4ba2-93d4-f32967c60723)
 ## Individual Change
-View changes in individual athlete body metrics from last scan grouped by position.
+Changes in individual athlete body metrics from last scan grouped by position.
 ![Screenshot 2025-03-23 at 6 46 21 PM](https://github.com/user-attachments/assets/7b8c5575-9458-4b11-84eb-1c921e371a25)
 ## Team Report
-View changes in team averages grouped by position as well as KPIs when evaluating team.
+Changes in team averages grouped by position as well as KPIs when evaluating team.
 ![Screenshot 2025-03-23 at 7 03 05 PM](https://github.com/user-attachments/assets/aab4321e-b9f4-43d7-a134-5fa4927c5f83)
 
