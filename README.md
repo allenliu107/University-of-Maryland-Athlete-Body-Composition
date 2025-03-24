@@ -11,7 +11,7 @@ Throughout the season, athletes undergo Dual-Energy X-ray Absorptiometry (DEXA) 
 ![Screenshot 2025-03-23 at 8 22 43 PM](https://github.com/user-attachments/assets/e0a0071d-628a-4413-b5d8-c880db938868)
 
 # Data Modeling
-The data model follows a snowflake schema with “Measures(2)” being the fact table containing every record of an athlete body scan as well as any DAX calculations. The “Date” and “Athletes” tables are dimension tables with “Athletes” having a sub-dimension called “Profiles" containing the position of each athlete.
+The data model follows a snowflake schema, with 'Measures(2)' serving as the fact table, containing every record of an athlete's body scan along with relevant DAX calculations. The 'Date' and 'Athletes' tables act as dimension tables, while 'Athletes' includes a sub-dimension called 'Profiles,' which stores each athlete's position.
 ![Screenshot 2025-03-23 at 7 01 25 PM](https://github.com/user-attachments/assets/6f81f406-99f5-4f95-a10f-f4b86cd2c65f)
 
 # Data Visuals and Analytics
