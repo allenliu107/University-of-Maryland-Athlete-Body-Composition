@@ -8,7 +8,7 @@ Table of Contents
 - [Data Visualizations](#data-visualizations)  
   - [Date Comparison (1)](#date-comparison-1)  
   - [Date Comparison (2)](#date-comparison-2)  
-  - [Individual Report](#individual-report)  
+  - [Individual Athlete Report](#individual-athlete-report)  
   - [Team Report](#team-report)   
 # Project Background
 **An interactive Power BI dashboard used by coaches from the University of Maryland to track athlete body composition over time.**
