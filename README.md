@@ -48,7 +48,7 @@ Measuring team-wide trends in body fat, lean mass, and weight to guide training 
 **10. Conditional Flags for Athlete Monitoring:**
 Implementing automated alerts based on critical thresholds in body composition data.
 
-# Data Visuals
+# Data Visualizations
 [Link To Report](https://github.com/allenliu107/University-of-Maryland-Athlete-Body-Composition/blob/main/FootballDEXA_Dec18%201.pdf)
 ## Date to Date Comparison (1)
 Compare the average metrics for each position group across two different dates.
