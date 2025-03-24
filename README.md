@@ -15,6 +15,7 @@ The data model follows a snowflake schema, with 'Measures(2)' serving as the fac
 ![Screenshot 2025-03-23 at 7 01 25 PM](https://github.com/user-attachments/assets/6f81f406-99f5-4f95-a10f-f4b86cd2c65f)
 
 # Data Visuals and Analytics
+## Analytics and Dax Calculations
 **1. Body Fat Percentage Trends:**
 Tracking changes in body fat percentage (BF%) over time to assess conditioning progress.
 
