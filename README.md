@@ -15,8 +15,8 @@ Throughout the season, athletes undergo Dual-Energy X-ray Absorptiometry (DEXA) 
 The data model follows a snowflake schema, with 'Measures(2)' serving as the fact table, containing every record of an athlete's body scan along with relevant DAX calculations. The 'Date' and 'Athletes' tables act as dimension tables, while 'Athletes' includes a sub-dimension called 'Profiles,' which stores each athlete's position.
 ![Screenshot 2025-03-23 at 7 01 25 PM](https://github.com/user-attachments/assets/6f81f406-99f5-4f95-a10f-f4b86cd2c65f)
 
-# Data Visuals and Analytics
-## Analytics and Dax Calculations
+# Analytics and DAX Calculations
+[Link To All Dax Formulas](https://github.com/allenliu107/University-of-Maryland-Athlete-Body-Composition/blob/main/Football%20Dexa%20-%20Measures%20.pdf)
 **1. Body Fat Percentage Trends:**
 Tracking changes in body fat percentage (BF%) over time to assess conditioning progress.
 
@@ -47,6 +47,8 @@ Measuring team-wide trends in body fat, lean mass, and weight to guide training 
 **10. Conditional Flags for Athlete Monitoring:**
 Implementing automated alerts based on critical thresholds in body composition data.
 
+# Data Visuals
+[Link To Report](https://github.com/allenliu107/University-of-Maryland-Athlete-Body-Composition/blob/main/FootballDEXA_Dec18%201.pdf)
 ## Date to Date Comparison (1)
 Compare the average metrics for each position group across two different dates.
 ![Screenshot 2025-03-23 at 6 27 35 PM](https://github.com/user-attachments/assets/e2c3da3b-144e-4368-b97f-619cadd736e2)
