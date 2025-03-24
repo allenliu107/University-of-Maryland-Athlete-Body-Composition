@@ -1,10 +1,25 @@
 # University-of-Maryland-Athlete-Body-Composition
 Tools Used: Microsoft Fabric (Power BI, Azure Data Factory, Apache Spark)
-
-Table of Contents  
-- [Project Background](#Project Background)  
-- [Data Collection and Processing](#Data Collection and Processing)
-  
+## Table of Contents  
+- [University of Maryland Athlete Body Composition](#university-of-maryland-athlete-body-composition)  
+- [Project Background](#project-background)  
+- [Data Collection and Processing](#data-collection-and-processing)  
+- [Data Modeling](#data-modeling)  
+- [Analytics and DAX Calculations](#analytics-and-dax-calculations)  
+  - [Body Fat Percentage Trends](#body-fat-percentage-trends)  
+  - [Lean Mass Development](#lean-mass-development)  
+  - [Position Group Body Composition](#position-group-body-composition)  
+  - [Bone Mineral Density (BMD) Insights](#bone-mineral-density-bmd-insights)  
+  - [Symmetry & Imbalances](#symmetry--imbalances)  
+  - [Weight Fluctuations & Performance](#weight-fluctuations--performance)  
+  - [Seasonal Body Composition Patterns](#seasonal-body-composition-patterns)  
+  - [Team-Level Composition Changes](#team-level-composition-changes)  
+  - [Conditional Flags for Athlete Monitoring](#conditional-flags-for-athlete-monitoring)  
+- [Data Visualizations](#data-visualizations)  
+  - [Date to Date Comparison (1)](#date-to-date-comparison-1)  
+  - [Date to Date Comparison (2)](#date-to-date-comparison-2)  
+  - [Individual Change](#individual-change)  
+  - [Team Report](#team-report)   
 # Project Background
 **An interactive Power BI dashboard used by coaches from the University of Maryland to track athlete body composition over time.**
 
@@ -34,22 +49,19 @@ Comparing muscle mass and fat distribution among different position groups to id
 **4. Bone Mineral Density (BMD) Insights:**
 Examining BMD changes over time to monitor bone health and injury risk.
 
-**5. Fat Mass Distribution:**
-Investigating visceral vs. subcutaneous fat levels and their impact on performance.
-
-**6. Symmetry & Imbalances:**
+**5. Symmetry & Imbalances:**
 Identifying arm and leg muscle imbalances that may affect performance and injury risk.
 
-**7. Weight Fluctuations & Performance:**
+**6. Weight Fluctuations & Performance:**
 Assessing how weight changes correlate with performance improvements or declines.
 
-**8. Seasonal Body Composition Patterns:**
+**7. Seasonal Body Composition Patterns:**
 Analyzing whether body composition shifts occur based on training phases or competition season.
 
-**9. Team-Level Composition Changes:**
+**8. Team-Level Composition Changes:**
 Measuring team-wide trends in body fat, lean mass, and weight to guide training programs.
 
-**10. Conditional Flags for Athlete Monitoring:**
+**9. Conditional Flags for Athlete Monitoring:**
 Implementing automated alerts based on critical thresholds in body composition data.
 
 # Data Visualizations
