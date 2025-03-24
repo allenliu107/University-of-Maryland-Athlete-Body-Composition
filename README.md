@@ -7,13 +7,8 @@ The University of Maryland has 20 Division 1 teams which encompasses over 550 st
 
 The scope of this project encompassed a general Power BI dashboard for all teams as well as a specific report for the football team. 
 # Data Collection and Processing
-Throughout the season athletes are scanned using a Dual-energy absorptiometry also known as DEXA which provides data on body composition, bone mineral density, fat distribution, and total body weight. 
-
-A data pipeline using the DEXA API transfers and stores the data into Azure Blob Storage. Afterwards all data is transported into Microsoft’s Fabric service, a all-in-one cloud data analytics platform that combines their existing technologies such as OneLake, Azure Data Factory, and Power BI Reporting. 
-
-First, a pipeline from the Data Factory was used to copy new blob data into a Lake House. 
-Second, notebooks using Apache Spark were used to transform the structure of data for reporting as well as update existing data. 
-Finally, A SQL Analytics Endpoint was created, exposing the data to a Semantic Model, which was then used by a Power BI report for visualization and analysis.
+Throughout the season athletes are scanned using a Dual-energy absorptiometry also known as DEXA which provides data on body composition, bone mineral density, fat distribution, and total body weight. A data pipeline using the DEXA API transfers and stores the data into Azure Blob Storage and then is copied into Azure Data Studio using another pipeline. In Azure Data Studio, the data is structured using SQL queries, transforming raw tables into formatted tables. The processed data is then connected to Microsoft Fabric using Direct Lake, ensuring real-time access without requiring scheduled refreshes. Finally, a Semantic Model in Fabric organizes the data for Power BI, enabling interactive dashboards, insightful reporting, and advanced calculations.
+![Screenshot 2025-03-23 at 8 22 43 PM](https://github.com/user-attachments/assets/e0a0071d-628a-4413-b5d8-c880db938868)
 
 # Data Modeling
 The data model follows a snowflake schema with “Measures(2)” being the fact table containing every record of an athlete body scan as well as any DAX calculations. The “Date” and “Athletes” tables are dimension tables with “Athletes” having a sub-dimension called “Profiles" containing the position of each athlete.
